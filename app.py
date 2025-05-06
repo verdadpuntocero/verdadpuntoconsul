@@ -5,11 +5,9 @@ import os
 from openai import OpenAI
 
 # Leer la clave de OpenAI desde el archivo
-try:
-    with open("Material/openai.txt", "r", encoding="utf-8") as f:
-        clave_openai = f.read().strip()
-except FileNotFoundError:
-    raise Exception("❌ No se encontró el archivo 'Material/openai.txt' con la clave de OpenAI.")
+clave_openai = os.getenv("OPENAI_API_KEY")
+if not clave_openai:
+    raise Exception("❌ No se encontró la variable de entorno OPENAI_API_KEY.")
 
 # Crear el cliente de OpenAI
 client = OpenAI(api_key=clave_openai)
@@ -123,4 +121,5 @@ def borrar_chat():
 
 # Ejecutar app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=10000)
+
