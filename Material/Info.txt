@@ -1,0 +1,231 @@
+Prompt de la tarea
+
+Actúe como experto en salud pública y APS.
+Oriente en enfermedades no transmisibles (ENT): hipertensión, diabetes, cáncer, salud mental, etc.
+Tenga conocimiento por país (Bolivia, El Salvador, Nicaragua, Paraguay, Perú, R. Dominicana, Venezuela).
+Promueva la prevención, la promoción y el acceso equitativo a servicios.
+Use un tono empático, humano y técnico sin dar diagnósticos.
+
+1. Marco común y enfoque estratégico
+Todos los países comparten la meta de fortalecer la Atención Primaria de Salud (APS) como pilar para prevenir, diagnosticar y controlar las ENT, procurando servicios integrados y equitativos. Las alianzas con OPS/OMS, BID y Banco Mundial han permitido elaborar planes estratégicos nacionales y periodos de ejecución entre 2019 y 2030, integrando las ENT a sistemas únicos de salud (SUS, RIS) y adoptando modelos familiares/comunitarios (MOSAFC, RISS).
+
+Para diagnosticar brechas y monitorear avances se emplean herramientas estandarizadas: encuestas STEPS (factores de riesgo), Valoración de Condiciones Esenciales (VCE), Evaluación de Madurez de RISS, SPPB para funcionalidad en adultos mayores, y los paquetes técnicos HEARTS (hipertensión), HEARTS-D (diabetes) y mhGAP (salud mental). La digitalización —con plataformas como SUIS, SIPNA y DHIS2— y la telemedicina (telecolposcopía, apps de riesgo cardiovascular) facilitan seguimiento en tiempo real.
+
+La promoción de la salud y la prevención ocupan un lugar central, con regulaciones sobre tabaco, alcohol y etiquetado frontal de alimentos; campañas de actividad física y entornos libres de humo buscan reducir la obesidad y consumo nocivo de sustancias. El desarrollo de guías clínicas nacionales para HTA, diabetes, diversos tipos de cáncer, EPOC y salud mental garantiza estándares de calidad, mientras que la capacitación continua en HEARTS, HEARTS-D, mhGAP y normativas nutricionales (Norma 168) fortalece las competencias del personal de APS.
+
+2. Avances y desafíos por país
+Bolivia
+Objetivo y marcos: Estrategia MSyD–OPS/OMS 2023–2027; integración al SUS y programa ENT 2025–2030; políticas específicas para cáncer cervicouterino e infantil.
+
+Evaluación de condiciones: Uso de VCE, STEPS y EMPA; sólo 32 % de hipertensos controlados; 66 % de establecimientos APS carece de equipamiento (espirómetros, tensiómetros automáticos, inhaladores).
+
+Planes operativos: Alineación con normas RISS en 3 095 centros APS; líneas de acción definidas por cada red integrada.
+
+Soluciones digitales: Avances en el Sistema Único de Información en Salud (SUIS), expansión de telemedicina y despliegue de colposcopía digital.
+
+Participación comunitaria: Enfoque intercultural (SAFCI en el Altiplano, redes en Chaco); inclusión de líderes locales y asociaciones de pacientes en diseño y monitoreo.
+
+Calidad de atención: Cinco guías nacionales de ENT; mapeo de brechas; fortalecimiento de capacidades técnicas en centros de salud.
+
+Capacitación: Formación masiva en HEARTS, HEARTS-D y mhGAP; cursos de eliminación de cáncer cervicouterino.
+
+Ampliación de insumos: Incorporación de quimioterapia pediátrica en alianza con St. Jude; 13 % de unidades APS con suministro continuo de medicamentos básicos.
+
+Sistemas de información: Madurez IS4H en desarrollo; monitoreo de mortalidad insuficiente; encuestas STEPS periódicas.
+
+Patologías prioritarias:
+
+Cardiovasculares: HEARTS en 70 establecimientos; cobertura de tratamiento de hipertensión al 33 %.
+
+Cáncer: Vacunación VPH, tamizaje PAP, telecolposcopía; 36 fármacos pediátricos oncológicos habilitados.
+
+Diabetes: Perfil epidemiológico a través de STEPS; HEARTS-D en pilotaje.
+
+Enfermedades respiratorias crónicas: Detección con espirómetros; promoción de energía limpia para reducir exposición.
+
+Salud mental: mhGAP adaptado a comunidades; talleres de sensibilización en centros comunitarios.
+
+Promoción de la salud: Regulación parcial de tabaco y alcohol; 65 % de adultos con obesidad; déficit de campañas sostenidas de actividad física.
+
+El Salvador
+Meta y alianzas: Cooperación técnica MINSAL–OPS/OMS, BID y Banco Mundial; Plan Estratégico OPS 2026–2031.
+
+Evaluación de condiciones: Ocupa el 11.º puesto de 22 en indicadores 2025 (9 completos, 6 parciales, 7 no alcanzados); SPPB y programa Vivifrail (Diabfrail LATAM) incorporado en Chalatenango con 37 participantes.
+
+Planes operativos: Lineamientos ENT de primer nivel (2021); Plan multisectorial (2017); HEARTS implementado al 100 % en tres fases (2022–2023); rutas clínicas para diabetes y enfermedad renal crónica integradas.
+
+Soluciones digitales: Fortalecimiento y ampliación de DHIS2 para seguimiento HEARTS; inclusión de tamizaje VPH en presupuesto nacional y ampliación de cobertura de vacunación.
+
+Participación comunitaria: Diabfrail LATAM ofrece educación nutricional y ejercicio; promotores comunitarios formados para detección temprana de cáncer de mama y cervicouterino.
+
+Calidad de atención: 11 guías nacionales vigentes (asma, diabetes, cáncer, ERC, nutrición, obesidad, HTA); estandarización de tamizaje VPH; termocoagulación en 74 centros; guía de cesación tabáquica.
+
+Capacitación: > 200 profesionales en detección temprana de cáncer infantil; 80 en cáncer de mama; cursos en Campus Virtual OPS.
+
+Insumos y tecnologías: Tensiómetros automáticos validados; espirómetros y inhaladores disponibles en unidades APS.
+
+Sistemas de información: Plataformas digitales de monitoreo en tiempo real para HEARTS y ENT; reportes periódicos.
+
+Patologías clave:
+
+Cardiovasculares: HEARTS nacional con monitoreo continuo.
+
+Cáncer: Tamizaje PAP y VPH; telecolposcopía; quimioterapia pediátrica en centros regionales.
+
+Diabetes y ERC: Gestión integrada bajo HEARTS y Diabfrail LATAM.
+
+Enfermedades respiratorias: Uso sistemático de espirómetros; protocolos de EPOC.
+
+Promoción de salud: Campañas educativas y fomento de estilos de vida activos.
+
+Salud mental: Integración de mhGAP en APS; desarrollo de intervenciones psicosociales tempranas.
+
+Nicaragua
+Objetivo y estrategia: Estrategia Nacional ENT 2022–2030 (reducción de factores de riesgo; promoción de estilos de vida saludables).
+
+Modelo de atención: MOSAFC con brigadistas de enfermedades crónicas; enfoque intercultural en la Costa Caribe.
+
+Normativa nutricional: Capacitación en Norma 168 para atención integrada de ENT (cardiovasculares, diabetes, renales).
+
+Evaluación de condiciones: Taller en octubre 2024 para priorizar ENT; ausencia de datos OMS verificados para indicadores 2025.
+
+Planes operativos: Lineamientos de enfermedades crónicas en primer nivel (2021); Plan Nacional de Prevención y Eliminación de Enfermedades desde nov 2024; próxima misión OPS.
+
+Soluciones digitales: (Sección 1.3 sin detalles publicados).
+
+Participación comunitaria: Brigadistas MOSAFC lideran detección cervical; modelo intercultural integra saberes locales.
+
+Calidad de atención: Plan Institucional 2024–2025 fortalece capacidades técnicas; mapeo de seis guías nacionales (asma, EPOC, cáncer cervicouterino, diabetes, nutrición, HTA).
+
+Capacitación APS: Entrenamiento en Norma 168 para abordaje nutricional.
+
+Insumos y tecnologías: Adquisición de pruebas moleculares de VPH vía Fondo Estratégico.
+
+Sistemas de información: SILAIS y centros de salud con expediente clínico electrónico interoperable; incorporación de DICOM, CIE-11 y telemedicina.
+
+Patologías prioritarias:
+
+Cáncer: Llamado urgente (oct–nov 2024) para detección y tratamiento; piloto en Estelí/Matagalpa con pruebas VPH.
+
+Otros grupos (cardiovasculares, diabetes, ERC y respiratorias): en desarrollo de protocolo y seguimiento de brechas.
+
+Promoción de salud: Estrategia ENT y Norma 168 base para capacitaciones, pero cobertura limitada.
+
+Salud mental: pendiente de inclusión en próximas actualizaciones.
+
+Paraguay
+Cooperación y planes: Estrategia OPS-MSPBS 2024–2028; Plan Institucional 2024–2028; Modelo Cuidados Crónicos en APS; Plan Nacional de Salud Mental 2024–2030.
+
+Evaluación y datos: Puesto 10/35 en indicadores OPS 2025 (9 completos, 7 parciales, 6 no); ENFR-2022: hipertensión 38,6 %, diabetes 10 %, sobrepeso 36,9 %, obesidad 32,4 %.
+
+Planes operativos: Prevención y Eliminación de Enfermedades; análisis de situación en Canindeyú; Tablero de Capacidad Resolutiva; vigilancia centinela en salud mental.
+
+Participación comunitaria: Redes de brigadistas MOSAFC; implementación comunitaria de mhGAP; cursos de Alta Gerencia en Salud Pública; Plan Regional de Capacitación.
+
+Calidad de atención: VCE en hospitales y Unidades de Salud Familiar (Saltos del Guairá, Curuguaty, La Paloma, Tova Jopoy); perfil profesional y Grupo Core Paraguay de VCE.
+
+Insumos y tecnologías: Estrategia nacional para eliminación de cáncer cervicouterino; Observatorio de Precios de Medicamentos; expedientes electrónicos interoperables (DICOM, CIE-11); telemedicina.
+
+Patologías clave:
+
+Cardiovasculares: HEARTS extendido a APS.
+
+Cáncer: Tamizaje VPH y termocoagulación; Foro Nacional de Prevención.
+
+Diabetes y EPOC: Programas de estilos de vida saludables; acceso a espirómetros e inhaladores.
+
+Salud mental: mhGAP en APS y refuerzo de atención psicosocial.
+
+Perú
+Estrategia y cobertura: Integración de ENT en IPRESS de RIS Camaná y Churcampa; visión 2025 para gobernanza RIS; programa único ENT en desarrollo.
+
+Soluciones digitales: Sistemas de información para mejorar eficiencia y coordinación; estrategia de Salud Digital iniciada en 2018, actualmente en fase de ampliación.
+
+Participación comunitaria: Brecha en involucramiento; se implementan acciones de alcance para acercar la comunidad a los servicios.
+
+Calidad de atención: ENT priorizadas: hipertensión arterial, diabetes tipo 2, cáncer cervicouterino e infantil; adopción de modelos de gestión clínica específicos.
+
+Capacitación APS: pendiente de detalles; se espera lanzar cursos en plataforma nacional.
+
+Insumos y tecnologías: Innovaciones en logística de distribución de medicamentos esenciales; mejora en cadena de frío de vacunas VPH.
+
+Sistemas de información: Discusión de estandarización de datos y monitoreo de pacientes con ENT; hoja de ruta para transformación digital.
+
+Promoción de salud: Etiquetado frontal (“octógonos”) en alimentos procesados para informar al consumidor.
+
+República Dominicana
+Marcos y alianzas: Mesa Temática ENT del Ministerio de Salud con OPS, BID y Banco Mundial; Plan ENT 2019–2024 y construcción participativa del Plan 2025–2030; planes nacionales específicos para cáncer cervicouterino, infantil y actividad física.
+
+Evaluación de condiciones: Puesto 24/35 en indicadores OMS 2025 (4 completos, 8 parciales, 10 no); encuestas STEPS, GYTS, GSHS, Salud Escolar; autodiagnósticos HEARTS; madurez RISS; dashboard DHIS2; índice de desempeño.
+
+Planes operativos: Vías clínicas para HTA y diabetes tipo 2; “Pasaporte de vida saludable” con fichas de control de riesgo cardiovascular; resolución SISALRIL exige HEARTS en servicios contratados por ARS.
+
+Soluciones digitales: SIPNA reforzado con indicadores HEARTS; app de Riesgo Cardiovascular; DHIS2; reactivación del Nodo Dominicana de Campus Virtual.
+
+Participación comunitaria: Lineamientos “SalSa” para alimentación saludable; cursos HEARTS; etiquetado frontal; talleres “Saludable hasta la Tambora”; espacios libres de humo; campañas GABSA.
+
+Calidad de atención: Manual de detección oportuna de cáncer infantil; integración de HEARTS en currícula universitaria y reglamentos de pasantías; actualización de pasaporte de vida saludable; 14 guías nacionales ENT.
+
+Capacitación: 4 874 profesionales en HEARTS; 52 en diabetes tipo 2; cursos de consejería nutricional y detección de cáncer.
+
+Insumos y tecnologías: Cuadro Básico actualizado con combinaciones para HTA; Farmacias del Pueblo dispensan medicamentos gratuitos; programa “Chequéate” de tamizaje de cáncer; adquisición de vacuna VPH vía Fondo Rotatorio.
+
+Sistemas de información: Observatorio Dominicano de la Diabetes (ODODI); SIPNA con DHIS2; inversión BID en 239 centros APS (equipamiento y conectividad); monitoreo y autoevaluación HEARTS.
+
+Patologías prioritarias:
+
+Cardiovasculares: HEARTS con meta 95 % de cobertura.
+
+Cáncer: Planes cervicouterino (2020–2030) e infantil (2023–2030); programa “Chequéate”.
+
+Diabetes: Vía Clínica de diabetes tipo 2; cursos integrales en CVSP.
+
+Salud mental: Call center “Cuida Tu Salud Mental”; 412 profesionales capacitados en mhGAP; talleres legislativos.
+
+Venezuela
+Estrategia y gobernanza: Estrategia Nacional ENT (actualización 2021); mesas técnicas MSPS con OPS, universidades y organizaciones comunitarias; marco constitucional y leyes orgánicas de planificación.
+
+Evaluación de condiciones: Puesto 15/35 en indicadores OMS 2025 (7 completos, 7 parciales, 7 no); plan de uso de VCE y madurez RISS para mapear brechas territoriales.
+
+Planes operativos: Campañas educativas; programas de detección temprana; vías clínicas estandarizadas; institucionalización de HEARTS y vía clínica de HTA.
+
+Soluciones digitales: (pendiente descripción oficial); prevista integración de SIPNA/DHIS2 y plataformas de monitoreo.
+
+Participación comunitaria: Constitución de consejos comunales; ley de planificación pública; redes de atención comunal.
+
+Calidad de atención: Ley del Sistema Venezolano para la Calidad; cinco guías nacionales vigentes (cesación tabáquica, diabetes, HTA, entre otras); fortalecimiento de reporte de cobertura y control de HTA.
+
+Capacitación APS: Casi 1 000 trabajadores sanitarios formados en mhGAP desde julio 2022; el Viceministerio de Salud Integral impulsa inserción de ENT en currícula de medicina y enfermería; promoción de cursos HEARTS en el CVSP.
+
+Insumos y tecnologías: Relanzamiento del Motor Farmacéutico para producción local de medicamentos esenciales.
+
+Sistemas de información: (pendiente de fortalecimiento formal); expectativa de registros clínicos electrónicos y dashboards.
+
+Patologías prioritarias:
+
+Cardiovasculares: Expansión de HEARTS; reporte sistemático de cobertura y control.
+
+Cáncer: Plan nacional de oncología en trámite; manuales de detección; cooperación OIEA para medicina nuclear; impulso de la vacuna VPH.
+
+Diabetes y respiratorias: pendientes de detalle; protocolos en etapa de planificación.
+
+Promoción de salud: Leyes de ambientes libres de humo; gravámenes al tabaco; obesidad 53,5 % en > 15 años.
+
+Salud mental: Leyes orgánicas de inclusión, discapacidad y violencia de género; call center “Cuida Tu Salud Mental”; 412 profesionales mhGAP; visión 2025 con proyecto de ley y expansión del modelo a siete estados.
+
+3. Recomendaciones clave
+Cobertura universal de HEARTS y mhGAP en todos los centros APS, con monitoreo digital continuo.
+
+Fortalecer sistemas de información interoperables (expedientes electrónicos, dashboards STEPS/VCE/DHIS2) para una gestión basada en datos.
+
+Impulsar enfoques comunitarios e interculturales para garantizar equidad y participación de poblaciones vulnerables.
+
+Invertir en capacitación continua y estrategias de retención del personal de APS para consolidar competencias técnicas.
+
+Asegurar el suministro constante y mantenimiento de insumos y tecnologías esenciales (medicamentos, espirómetros, telemedicina).
+
+Reforzar políticas de promoción y prevención: impuestos a tabaco y alcohol, etiquetado frontal de alimentos, campañas de actividad física.
+
+Escalar innovaciones digitales: teleconsulta, apps de seguimiento de riesgo, inteligencia de datos para decisiones clínicas y de salud pública.
+
+Con un enfoque integrado, colaborativo y adaptado a las realidades locales, estos lineamientos permitirán avanzar hacia sistemas de salud más resilientes, inclusivos y capaces de enfrentar el reto creciente de las ENT en América Latina.

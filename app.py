@@ -91,17 +91,32 @@ def dashboard():
 @login_requerido
 def asistente():
     if 'chat' not in session:
-        session['chat'] = [{"role": "assistant", "content": "Hazme una pregunta."}]
+        session['chat'] = [{"role": "assistant", "content": "Hazme una pregunta relacionada con el contenido del proyecto."}]
 
     if request.method == "POST":
         pregunta = request.form["pregunta"]
         chat = session['chat']
         chat.append({"role": "user", "content": pregunta})
 
+        # Leer el contenido del archivo Info.txt
+        try:
+            with open("Material/Info.txt", "r", encoding="utf-8") as archivo_info:
+                contexto = archivo_info.read().strip()
+        except FileNotFoundError:
+            contexto = "Información no disponible. No se pudo cargar el archivo Info.txt."
+
+        # Crear los mensajes para el modelo
+        mensajes = [
+            {
+                "role": "system",
+                "content": f"Eres un asistente de salud. Usa solo la siguiente información como base para responder:\n\n{contexto}\n\nSi la pregunta no está relacionada, responde: 'Por favor, haz una pregunta relacionada con la información proporcionada.'"
+            }
+        ] + chat
+
         try:
             respuesta_openai = client.chat.completions.create(
                 model="gpt-4",
-                messages=[{"role": "system", "content": "Eres un asistente de salud especializado en ENT."}] + chat
+                messages=mensajes
             )
             respuesta = respuesta_openai.choices[0].message.content.strip()
             chat.append({"role": "assistant", "content": respuesta})
@@ -111,6 +126,7 @@ def asistente():
         session['chat'] = chat
 
     return render_template("asistente.html", chat=session['chat'])
+
 
 # Borrar historial del chat
 @app.route('/borrar_chat')
