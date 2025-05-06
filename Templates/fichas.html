@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Fichas Informativas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='icono.ico') }}">
+
+
+</head>
+<body>
+    <a href="{{ url_for('index') }}" class="chat-volver">← Volver a Inicio</a>
+    <div class="container">
+        <h1>ESCOGE UNA FICHA PDF</h1>
+        <div class="grid">
+            {% for archivo in archivos %}
+                <a class="pdf-card" href="{{ url_for('ver_pdf', tipo='Fichas', nombre=archivo) }}" target="_blank">
+                    <div>{{ archivo.replace('.pdf', '') }}</div>
+                </a>
+            {% endfor %}
+        </div>
+
+       
+    </div>
+</body>
+</html>

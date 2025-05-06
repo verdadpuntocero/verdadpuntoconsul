@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Asistente Interactivo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='icono.ico') }}">
+
+
+</head>
+<body>
+    <a href="{{ url_for('index') }}" class="chat-volver">← Volver</a>
+    <div class="chat-container">
+        <h1>Asistente de Salud</h1>
+
+        <div class="chat-window">
+            {% for mensaje in chat %}
+                <div class="chat-message {{ 'left' if mensaje.role == 'assistant' else 'right' }}">
+                    {% if mensaje.role == 'user' %}🧑 Tú: {% else %}🩺 Asistente: {% endif %}{{ mensaje.content }}
+                </div>
+            {% endfor %}
+
+            <!-- Input como burbuja -->
+            <form method="POST" class="chat-inline-form">
+                <input type="text" name="pregunta" placeholder="Escribe tu mensaje..." required autofocus>
+                <button type="submit">Enviar</button>
+            </form>
+
+            <div class="chat-message left typing-indicator" id="typing" style="display: none;">
+                🩺 <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+            </div>
+            
+        </div>
+        <a href="{{ url_for('borrar_chat') }}" class="chat-limpiar">🗑️ Borrar conversación</a>
+
+
+        <a href="{{ url_for('index') }}" class="chat-volver">← Volver a Inicio</a>
+    </div>
+
+    <script>
+        const chatWindow = document.querySelector('.chat-window');
+        const form = document.querySelector('.chat-inline-form');
+        const typing = document.getElementById('typing');
+    
+        if (form && typing) {
+            form.addEventListener('submit', function () {
+                typing.style.display = 'flex';
+    
+                if (chatWindow) {
+                    chatWindow.scrollTop = chatWindow.scrollHeight;
+                }
+            });
+        }
+    
+        // Scroll automático al cargar la página
+        if (chatWindow) {
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+        }
+    </script>
+    
+    
+</body>
+</html>
+
+
+

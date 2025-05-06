@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Síntesis Validada</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='icono.ico') }}">
+
+
+</head>
+<body>
+    <a href="{{ url_for('index') }}" class="volver-fijo">← Volver a inicio</a>
+
+    <div class="container">
+        
+        <h1>ESCOGE UNA SÍNTESIS VALIDADA</h1>
+        <div class="grid">
+            {% for archivo in archivos %}
+                <a class="pdf-card" href="{{ url_for('ver_pdf', tipo='Síntesis Validado', nombre=archivo) }}" target="_blank">
+                    <div>{{ archivo.replace('.pdf', '') }}</div>
+                </a>
+            {% endfor %}
+        </div>
+
+        
+    </div>
+</body>
+</html>

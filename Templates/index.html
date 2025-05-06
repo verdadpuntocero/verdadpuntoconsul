@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Organizador de Salud</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ url_for('static', filename='icono.ico') }}">
+
+</head>
+<body>
+    <div class="container">
+        <img src="{{ url_for('static', filename='Img/logo.png') }}" class="logo">
+        <h1>SELECCIONA UNA OPCIÓN</h1>
+        <p class="descripcion">Sistema de valoración, prevención y control para ENT<br>en los diferentes países</p>
+
+        <div class="botones">
+            <a href="/fichas" class="btn-opcion">
+                <img src="{{ url_for('static', filename='Img/ficha.jpg') }}">
+                <span>Fichas</span>
+            </a>
+            <a href="/sintesis" class="btn-opcion">
+                <img src="{{ url_for('static', filename='Img/sintesis.jpg') }}">
+                <span>Síntesis Validada</span>
+            </a>
+            <a href="/asistente" class="btn-opcion">
+                <img src="{{ url_for('static', filename='Img/asistente.jpg') }}">
+                <span>Asistente</span>
+            </a>
+        </div>
+
+        <a href="/dashboard" class="link-dashboard">Ver Dashboard PPS-PP ENT</a>
+    </div>
+</body>
+</html>
